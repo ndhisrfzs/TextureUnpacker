@@ -1,2 +1,2 @@
 # TextureUnpacker
-TextureUnpacker By WinForm
+TextureUnpacker By .Net Core
