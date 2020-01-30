@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TextureUnpacker": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\heroes\\heroes.png"
+    }
+  }
+}
